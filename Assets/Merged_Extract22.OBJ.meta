@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: e413b9e379ceb554eb8c8c3db62fd297
+timeCreated: 1499857429
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group18371
+    100002: Group18371_MeshPart0
+    100004: Group18371_MeshPart1
+    100006: Group18371_MeshPart2
+    100008: Group18371_MeshPart3
+    100010: Group18371_MeshPart4
+    100012: Group18371_MeshPart5
+    100014: Group18371_MeshPart6
+    100016: Group27888
+    100018: Group27888_MeshPart0
+    100020: Group27888_MeshPart1
+    100022: Group27888_MeshPart2
+    100024: Group27888_MeshPart3
+    100026: Group28371
+    100028: Group28371_MeshPart0
+    100030: Group28371_MeshPart1
+    100032: Group3090
+    100034: Group38371
+    100036: Group50255
+    100038: //RootNode
+    100040: ZBrush_defualt_group
+    100042: ZBrush_defualt_group_MeshPart0
+    100044: ZBrush_defualt_group_MeshPart1
+    100046: ZBrush_defualt_group_MeshPart2
+    100048: ZBrush_defualt_group_MeshPart3
+    100050: ZBrush_defualt_group_MeshPart4
+    400000: Group18371
+    400002: Group18371_MeshPart0
+    400004: Group18371_MeshPart1
+    400006: Group18371_MeshPart2
+    400008: Group18371_MeshPart3
+    400010: Group18371_MeshPart4
+    400012: Group18371_MeshPart5
+    400014: Group18371_MeshPart6
+    400016: Group27888
+    400018: Group27888_MeshPart0
+    400020: Group27888_MeshPart1
+    400022: Group27888_MeshPart2
+    400024: Group27888_MeshPart3
+    400026: Group28371
+    400028: Group28371_MeshPart0
+    400030: Group28371_MeshPart1
+    400032: Group3090
+    400034: Group38371
+    400036: Group50255
+    400038: //RootNode
+    400040: ZBrush_defualt_group
+    400042: ZBrush_defualt_group_MeshPart0
+    400044: ZBrush_defualt_group_MeshPart1
+    400046: ZBrush_defualt_group_MeshPart2
+    400048: ZBrush_defualt_group_MeshPart3
+    400050: ZBrush_defualt_group_MeshPart4
+    2300000: Group18371_MeshPart0
+    2300002: Group18371_MeshPart1
+    2300004: Group18371_MeshPart2
+    2300006: Group18371_MeshPart3
+    2300008: Group18371_MeshPart4
+    2300010: Group18371_MeshPart5
+    2300012: Group18371_MeshPart6
+    2300014: Group27888_MeshPart0
+    2300016: Group27888_MeshPart1
+    2300018: Group27888_MeshPart2
+    2300020: Group27888_MeshPart3
+    2300022: Group28371_MeshPart0
+    2300024: Group28371_MeshPart1
+    2300026: Group3090
+    2300028: Group38371
+    2300030: Group50255
+    2300032: ZBrush_defualt_group_MeshPart0
+    2300034: ZBrush_defualt_group_MeshPart1
+    2300036: ZBrush_defualt_group_MeshPart2
+    2300038: ZBrush_defualt_group_MeshPart3
+    2300040: ZBrush_defualt_group_MeshPart4
+    3300000: Group18371_MeshPart0
+    3300002: Group18371_MeshPart1
+    3300004: Group18371_MeshPart2
+    3300006: Group18371_MeshPart3
+    3300008: Group18371_MeshPart4
+    3300010: Group18371_MeshPart5
+    3300012: Group18371_MeshPart6
+    3300014: Group27888_MeshPart0
+    3300016: Group27888_MeshPart1
+    3300018: Group27888_MeshPart2
+    3300020: Group27888_MeshPart3
+    3300022: Group28371_MeshPart0
+    3300024: Group28371_MeshPart1
+    3300026: Group3090
+    3300028: Group38371
+    3300030: Group50255
+    3300032: ZBrush_defualt_group_MeshPart0
+    3300034: ZBrush_defualt_group_MeshPart1
+    3300036: ZBrush_defualt_group_MeshPart2
+    3300038: ZBrush_defualt_group_MeshPart3
+    3300040: ZBrush_defualt_group_MeshPart4
+    4300000: Group18371_MeshPart0
+    4300002: Group18371_MeshPart1
+    4300004: Group18371_MeshPart2
+    4300006: Group18371_MeshPart3
+    4300008: Group18371_MeshPart4
+    4300010: Group18371_MeshPart5
+    4300012: Group18371_MeshPart6
+    4300014: Group27888_MeshPart0
+    4300016: Group27888_MeshPart1
+    4300018: Group27888_MeshPart2
+    4300020: Group27888_MeshPart3
+    4300022: Group28371_MeshPart0
+    4300024: Group28371_MeshPart1
+    4300026: Group3090
+    4300028: Group38371_MeshPart0
+    4300030: Group50255
+    4300032: ZBrush_defualt_group_MeshPart0
+    4300034: ZBrush_defualt_group_MeshPart1
+    4300036: ZBrush_defualt_group_MeshPart2
+    4300038: ZBrush_defualt_group_MeshPart3
+    4300040: ZBrush_defualt_group_MeshPart4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
